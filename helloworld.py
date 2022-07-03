@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-making changes for commit
-=======
+###making changes for commit
+
 print("Hello World")
 print("I am learning git")
->>>>>>> feature_a
+print("testing the git hub command, making the changes")
+
